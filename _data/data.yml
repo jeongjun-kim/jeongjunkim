@@ -40,7 +40,7 @@ profile: |
 
 # Experience
 experience:
-  - role: Undergraduate Research intern
+  - role: Undergraduate Research Intern
     time: 2024.07 ~ Present
     company: |
       3D Vision Lab in SNU / Advised by Prof. Young Min Kim
@@ -49,7 +49,7 @@ experience:
     technologies_used: |
       Technologies_Used: PyTorch, OpenGL, Computer Graphics
   
-  - role: Undergraduate Research intern 
+  - role: Undergraduate Research Intern 
     time: 2024.07 ~ Present
     company: |
       System Semiconductor for AI in SNU / Advised by Prof. Namjoon Kim
@@ -58,7 +58,7 @@ experience:
     technologies_used: |
       Technologies_Used: Pytorch, CUDA, Nsight systems
     
-  - role: RL/Robotics team Researcher
+  - role: RL/Robotics Team Member
     time: 2024.06 ~ Present
     company: AttentionX, AI Research Group
     details: |
@@ -67,7 +67,7 @@ experience:
       Technologies_Used: Isaac Sim, Isaac SDK, Reinforcement Learning
       
   - role: Major Course Undergraduate TA
-    time: 2024.03 ~ Present
+    time: 2024.03 ~ 2024.08
     company: College of Engineering, Seoul National University
     details: |
       Introduction to Algorithms (ECE430.329)<br>
@@ -87,7 +87,7 @@ experience:
     technologies_used: |
       Technologies_Used: LLM, Langchain, RAG, Kubernetes, Docker
 
-  - role: Undergraduate Research intern 
+  - role: Undergraduate Research Intern 
     time: 2023.07 ~ 2023.12
     company: Medical AI Computing Lab in SNU Hospital / Advised by Prof. HyounJoong Kong
     details: |
