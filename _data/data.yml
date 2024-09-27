@@ -84,13 +84,11 @@ experience:
       Real-time surgical room video and analysis of physical fatigue by applying single 3D HPE (Human Pose Estimation) to multi human efficiently
     technologies_used: |
       Python, PyTorch, OpenGL
-  
   - role: SNU Buddy
     time: 2023.02 – 2023.06
-    company: 55th Military Police COMPANY, USAG Yongsan-Casey
+    company: office of international affairs in Seoul National University
     details: |
       Helped International exchange students with their school life
-
   - role: Military Police / KATUSA (Mandatory Military Service)
     time: 2021.05 – 2022.11
     company: 55th Military Police COMPANY, USAG Yongsan-Casey
@@ -117,18 +115,16 @@ Scholarships:
     company: Korea Health Industry Development Institute
     details: |
       $2200 per semester, merit-based scholarship for cultivating talented students that encompass both medical and artificial intelligence fields.
-  
   - title: Merit-based Scholarship
     time: 2023.03 - Now
     company: Seoul National University
     details: |
       Scolarship for the academic excellence in 2023 2nd semester, 2024 1st semester
-
+# Certifications
 Certifications:
   - title: Getting Started with Accelerated Computing in CUDA C/C++
     time: July 2024
     company: NVIDIA
-
 # Volunteering
 volunteering:
   - time: 2019.03 - 2020.12
