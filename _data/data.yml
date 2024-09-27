@@ -17,7 +17,7 @@ languages:
 
 education:
 
-  - degree: BS in Electrical&Computer Engineering
+  - degree: BS in Electrical and       Computer Engineering
     time: 2019 - 2025
     university: Seoul National University
 
@@ -55,13 +55,18 @@ experience:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
     technologies_used: |
       Python, PyTorch, OpenGL
-
+  - role: RL/Robotics team Researcher
+    time: 2024.06 ~ Present
+    company: AttentionX, Student AI Research Group
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      
   - role: Major Course Undergraduate TA
     time: 2024.03 ~ Present
     company: Department of Electrical and Computer Engineering, Seoul National University
     details:
-      - "Introduction to Algorithms (ECE430.329) Class"
-      - "Data-structure and Algorithms(M3500.004500) Class"
+      - Introduction to Algorithms (ECE430.329)
+      - Data-structure and Algorithms(M3500.004500)
 
   - role: Applied AI intern 
     time: 2023.12 ~ 2024.03
