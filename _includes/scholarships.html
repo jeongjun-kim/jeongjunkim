@@ -1,0 +1,19 @@
+{% assign scholarships = site.data.data.scholarships %}
+{% if scholarships %}
+<section class="scholarships">
+    <h2 class="title">Scholarships</h2>
+    {% for sh in scholarships %}
+        <div class="scholarships-item">
+            <div class="role">
+                {{sh.role}}
+            </div>
+            <div class="company">
+                {{sh.company}} 
+                <span class="time">{{sh.time}}</span>
+            </div> 
+            <div class="details">{{sh.details}}</div>
+        </div>
+        
+    {% endfor %}
+</section>
+{% endif %}
