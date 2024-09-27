@@ -42,7 +42,9 @@ profile: |
 experience:
   - role: Undergraduate Research intern
     time: 2024.07 ~ Present
-    company: 3D Vision Lab in Seoul National University \n Advised by Prof. Young Min Kim
+    company: 
+      - 3D Vision Lab in Seoul National University
+      - Advised by Prof. Young Min Kim
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
     technologies_used: |
@@ -65,9 +67,9 @@ experience:
     time: 2024.03 ~ Present
     company: Department of Electrical and Computer Engineering, Seoul National University
     details:
-      - "- Introduction to Algorithms (ECE430.329)"
-      - "- Data-structure and Algorithms(M3500.004500)"
-      - "- Recieved Best Tutor award (2024.07)"
+      - Introduction to Algorithms (ECE430.329)
+      - Data-structure and Algorithms(M3500.004500)
+      - Recieved Best Tutor award (2024.07)
 
   - role: Applied AI intern 
     time: 2023.12 ~ 2024.03
