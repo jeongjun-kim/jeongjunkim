@@ -65,11 +65,11 @@ experience:
       
   - role: Major Course Undergraduate TA
     time: 2024.03 ~ Present
-    company: Department of Electrical and Computer Engineering, Seoul National University
-    details:
-      - Introduction to Algorithms (ECE430.329)
-      - Data-structure and Algorithms(M3500.004500)
-      - Recieved Best Tutor award (2024.07)
+    company: College of Engineering, Seoul National University
+    details: | 
+      Introduction to Algorithms (ECE430.329)
+      Data-structure and Algorithms(M3500.004500)
+      Recieved Best Tutor award (2024.07)
 
   - role: Applied AI intern 
     time: 2023.12 ~ 2024.03
