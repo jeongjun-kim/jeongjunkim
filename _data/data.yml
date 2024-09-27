@@ -43,22 +43,20 @@ experience:
   - role: Undergraduate Research intern
     time: 2024.07 ~ Present
     company: |
-      3D Vision Lab in Seoul National University
-      Advised by Prof. Young Min Kim
+      3D Vision Lab in SNU / Advised by Prof. Young Min Kim
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
     technologies_used: |
-      Python, PyTorch, OpenGL
+      Technologies_Used: PyTorch, OpenGL, Computer Graphics
   
   - role: Undergraduate Research intern 
     time: 2024.07 ~ Present
     company: |
-      System Semiconductor Engineering for AI in Seoul National University<br>
-      Advised by Prof. Namjoon Kim
+      System Semiconductor Engineering for AI in SNU / Advised by Prof. Namjoon Kim
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
     technologies_used: |
-      Pytorch, CUDA, Nsight systems
+      Technologies_Used: Pytorch, CUDA, Nsight systems
     
   - role: RL/Robotics team Researcher
     time: 2024.06 ~ Present
@@ -66,7 +64,7 @@ experience:
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     technologies_used: |
-      Isaac Sim, Isaac SDK, Reinforcement Learning
+      Technologies_Used: Isaac Sim, Isaac SDK, Reinforcement Learning
   - role: Major Course Undergraduate TA
     time: 2024.03 ~ Present
     company: College of Engineering, Seoul National University
@@ -75,23 +73,22 @@ experience:
       Data-structure and Algorithms(M3500.004500)<br>
       Recieved Best Tutor award (2024.07)<br>
     technologies_used: |
-      Python, C++, Datastructure and Algorithms
+      Technologies_Used: Python, C++, Datastructure and Algorithms
 
   - role: Applied AI intern 
     time: 2023.12 ~ 2024.03
     company: |
-      Digital Healthcare Lab, AI Innovation, NAVER CLOUD (CLOVA)<br>
-      Advised by Ph.D Haanju Yoo
+      Digital Healthcare Lab, AI Innovation, NAVER CLOUD / Advised by Ph.D Haanju Yoo
     details: |
       Experience in tackling real-world problems in the AI industry by utilizing LLM (HYPERCLOVA X)<br>
       Design of scalable Architecture for Action-based Chatbot Agent utilizing Langchain, Guardrails, RAG, and external API<br>
       NER Model Tuning and Serving PoC for Clinical Documentation using Open-Source sLLM, developing on-premise inference server and MLOps pipeline on Kubernetes
     technologies_used: |
-      Langchain, RAG, Kubernetes, Docker
+      Technologies_Used: LLM, Langchain, RAG, Kubernetes, Docker
 
   - role: Undergraduate Research intern 
     time: 2023.07 ~ 2023.12
-    company: MeDisc (Medical AI/Spatial Computing) Lab, Department of Transdisciplinary Medicine, Seoul National University Hospital / Prof. Hyoun Joong Kong
+    company: MeDisc (Medical AI/Spatial Computing) Lab, Department of Transdisciplinary Medicine, Seoul National University Hospital / Advised by Prof. Hyoun Joong Kong
     details: |
       collaborative Research with Medical Doctor and AI-based research assistance
       Experience of solving real clinical problem
@@ -99,7 +96,7 @@ experience:
       Research on AI Modeling related to Breast Reconstruction with multi-modal medical imaging  (collaborated with Plastic Surgeon)
       Real-time surgical room video and analysis of physical fatigue by applying single 3D HPE (Human Pose Estimation) to multi human efficiently
     technologies_used: |
-      Computer Vision
+      Technologies_Used: Computer Vision, Medical Imaging
   - role: SNU Buddy
     time: 2023.02 – 2023.06
     company: office of international affairs in Seoul National University
@@ -111,7 +108,7 @@ experience:
 
 # projects
 projects:
-  - title: LLM Inference Optimization for Edge Devices<br>
+  - title: LLM Inference Optimization for Edge Devices
     details: |
       Design optimized inference system for the Phi3-medium-4k-instruct LLM on the NVIDIA Jetson AGX Orin 32GB platform.<br>
       Applying hardware-specific optimizations such as CUDA acceleration and Algorithmic optimizations.
