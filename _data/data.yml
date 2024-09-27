@@ -36,7 +36,7 @@ skills:
 
 # Profile
 profile: |
-  Research Interests : Compiler Optimization for Deep Learning and Homomorphic Encryption.
+  Research Interests : Design of hardware-friendly algorithms and AI workloads, Visual Perception and World Understanding in Robotics
 
 # Experience
 experience:
@@ -72,7 +72,7 @@ experience:
     details: |
       Introduction to Algorithms (ECE430.329)<br>
       Data-structure and Algorithms(M3500.004500)<br>
-      Recieved Best Tutor award (2024.07)<br>
+      Received Best Tutor award (2024.07)<br>
     technologies_used: |
       Technologies_Used: Python, C++, Datastructure and Algorithms
 
@@ -98,7 +98,7 @@ experience:
       Technologies_Used: Computer Vision, Medical Imaging
   - role: SNU Buddy Member
     time: 2023.02 – 2023.06
-    company: Office of international affairs in Seoul National University
+    company: Office of International Affairs in Seoul National University
     details: |
       Helped International exchange students with their school life
   - role: Military Police / KATUSA (Mandatory Military Service)
@@ -123,7 +123,7 @@ scholarships:
     time: 2023.03 - Now
     company: Seoul National University
     details: |
-      Scolarship for the academic excellence in 2023 2nd semester, 2024 1st semester
+      Scholarship for the academic excellence in 2023 2nd semester, 2024 1st semester
 
 # Certifications
 certifications:
