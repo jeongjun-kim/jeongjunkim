@@ -6,7 +6,7 @@ fork: true
 contact:
   email: kjj7930@snu.ac.kr
   github: jeongjun-kim
-  linkedin: jeongjun-kim/
+  linkedin: jeongjun-kim
   phone: 010-7301-8005
   # gitlab: 
   # twitter: 
@@ -52,7 +52,7 @@ experience:
   - role: Undergraduate Research intern 
     time: 2024.07 ~ Present
     company: |
-      System Semiconductor Engineering for AI in SNU / Advised by Prof. Namjoon Kim
+      System Semiconductor for AI in SNU / Advised by Prof. Namjoon Kim
     details: |
       Conducting research on LLM inference optimization technique for limited and unified memory environment
     technologies_used: |
@@ -79,7 +79,7 @@ experience:
   - role: Applied AI intern 
     time: 2023.12 ~ 2024.03
     company: |
-      Digital Healthcare Lab, AI Innovation, NAVER CLOUD / Advised by Ph.D Haanju Yoo
+      Digital Healthcare Lab, NAVER CLOUD / Advised by Ph.D Haanju Yoo
     details: |
       Experience in tackling real-world problems in the AI industry by utilizing LLM (HYPERCLOVA X)<br>
       Design of scalable Architecture for Action-based Chatbot Agent utilizing Langchain, Guardrails, RAG, and external API<br>
@@ -89,7 +89,7 @@ experience:
 
   - role: Undergraduate Research intern 
     time: 2023.07 ~ 2023.12
-    company: MeDisc (Medical AI/Spatial Computing) Lab, Department of Transdisciplinary Medicine, Seoul National University Hospital / Advised by Prof. Hyoun Joong Kong
+    company: Medical AI Computing Lab in SNU Hospital / Advised by Prof. HyounJoong Kong
     details: |
       collaborative Research with Medical Doctor and AI-based research assistance
       Experience of solving real clinical problem
@@ -98,9 +98,9 @@ experience:
       Real-time surgical room video and analysis of physical fatigue by applying single 3D HPE (Human Pose Estimation) to multi human efficiently
     technologies_used: |
       Technologies_Used: Computer Vision, Medical Imaging
-  - role: SNU Buddy
+  - role: SNU Buddy Member
     time: 2023.02 – 2023.06
-    company: office of international affairs in Seoul National University
+    company: Office of international affairs in Seoul National University
     details: |
       Helped International exchange students with their school life
   - role: Military Police / KATUSA (Mandatory Military Service)
