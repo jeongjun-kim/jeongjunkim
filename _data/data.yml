@@ -24,7 +24,7 @@ education:
 skills:
   - category: Computer Science
     skill:
-      - C,C++,Python
+      - C, C++, Python
       - CUDA, Nsight
       - PyTorch
   
@@ -36,16 +36,12 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Research Interests : Compiler Optimization for Deep Learning and Homomorphic Encryption.
 
 # Experience
 experience:
   - role: Undergraduate Research intern
-    time: July 2024 ~ Present
+    time: 2024.07 ~ Present
     company: 3D Vision Lab in Seoul National University / Prof. Young Min Kim
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
@@ -53,22 +49,22 @@ experience:
       Python, PyTorch, OpenGL
   
   - role: Undergraduate Research intern 
-    time: July 2024 ~ Present
-    company: 3D Vision Lab in Seoul National University / Prof. Young Min Kim
+    time: 2024.07 ~ Present
+    company: System Semiconductor Engineering for AI in Seoul National University / Prof. Namjoon Kim
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
     technologies_used: |
       Python, PyTorch, OpenGL
 
   - role: Major Course Undergraduate TA
-    time: Mar 2024 ~ Present
+    time: 2024.03 ~ Present
     company: Department of Electrical and Computer Engineering, Seoul National University
-    details: |
-      Introduction to Algorithms (ECE430.329) Class
-      Data-structure and Algorithms(M3500.004500) Class
+    details:
+      - Introduction to Algorithms (ECE430.329) Class
+      - Data-structure and Algorithms(M3500.004500) Class
 
   - role: Applied AI intern 
-    time: Dec 2023 ~ Mar 2024
+    time: 2023.12 ~ 2024.03
     company: Digital Healthcare Lab, AI Innovation, NAVER CLOUD (CLOVA) / Ph.D Haanju Yoo
     details: |
       Experience in tackling real-world problems in the AI industry by utilizing LLM (HYPERCLOVA X).
@@ -78,7 +74,7 @@ experience:
       Python, PyTorch, OpenGL
 
   - role: Undergraduate Research intern 
-    time: July 2023 ~ Dec 2023
+    time: 2023.07 ~ 2023.12
     company: MeDisc (Medical AI/Spatial Computing) Lab, Department of Transdisciplinary Medicine, Seoul National University Hospital / Prof. Hyoun Joong Kong
     details: |
       collaborative Research with Medical Doctor and AI-based research assistance
@@ -90,13 +86,13 @@ experience:
       Python, PyTorch, OpenGL
   
   - role: SNU Buddy
-    time: Feb 2023 – June 2023
+    time: 2023.02 – 2023.06
     company: 55th Military Police COMPANY, USAG Yongsan-Casey
     details: |
       Helped International exchange students with their school life
 
   - role: Military Police / KATUSA (Mandatory Military Service)
-    time: May 2021 – November 2022
+    time: 2021.05 – 2022.11
     company: 55th Military Police COMPANY, USAG Yongsan-Casey
     details: |
       collaborative Research with Medical Doctor and AI-based research assistance
@@ -117,27 +113,26 @@ projects:
 # Volunteering
 Scholarships:
   - title: Medical AI Scholarship
-    time: Mar 2023 - Now
-    company: Some random organization
+    time: 2023.03 - Now
+    company: Korea Health Industry Development Institute
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      $2200 per semester, merit-based scholarship for cultivating talented students that encompass both medical and artificial intelligence fields.
   
   - title: Merit-based Scholarship
-    time: Mar 2023 - Now
-    company: Some random organization
+    time: 2023.03 - Now
+    company: Seoul National University
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Scolarship for the academic excellence in 2023 2nd semester, 2024 1st semester
 
-Awards:
+Certifications:
+  - title: Getting Started with Accelerated Computing in CUDA C/C++
+    time: July 2024
+    company: NVIDIA
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
+  - time: 2019.03 - 2020.12
+    role: SNU SENS (Society of Engineering for Volunteering)
     company: Some random organization
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
