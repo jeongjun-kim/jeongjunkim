@@ -89,9 +89,9 @@ experience:
 
   - role: Undergraduate Research Intern 
     time: 2023.07 ~ 2023.12
-    company: Medical AI Computing Lab in SNU Hospital / Advised by Prof. HyounJoong Kong
+    company: Medisc Lab in SNUH / Advised by Prof. HyounJoong Kong
     details: |
-      Collaborative Research with Medical Doctor and AI-based research assistance<br>
+      Collaborative Research with Medical Doctor and AI research assistance<br>
       Data Augmentation via GANs for data-scarce Classes in Breast Implant Classification<br>
       Research on AI Modeling related to Breast Reconstruction with multi-modal medical imaging (collaborated with Plastic Surgeon)
     technologies_used: |
