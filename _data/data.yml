@@ -102,7 +102,7 @@ projects:
       tempor incididunt ut labore et dolore magna aliqua.
 
 # Scholarships
-Scholarships:
+scholarships:
   - title: Medical AI Scholarship
     time: 2023.03 - Now
     company: Korea Health Industry Development Institute
@@ -115,7 +115,7 @@ Scholarships:
       Scolarship for the academic excellence in 2023 2nd semester, 2024 1st semester
 
 # Certifications
-Certifications:
+certifications:
   - title: Getting Started with Accelerated Computing in CUDA C/C++
     time: July 2024
     company: NVIDIA
