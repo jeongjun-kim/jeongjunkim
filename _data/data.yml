@@ -45,7 +45,7 @@ experience:
     company: |
       3D Vision Lab in SNU / Advised by Prof. Young Min Kim
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      Conducting research on Dynamic Neural Radiance Fields (NeRF) for my BS graduation thesis.
     technologies_used: |
       Technologies_Used: PyTorch, OpenGL, Computer Graphics
   
@@ -54,17 +54,18 @@ experience:
     company: |
       System Semiconductor Engineering for AI in SNU / Advised by Prof. Namjoon Kim
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      Conducting research on LLM inference optimization technique for limited and unified memory environment
     technologies_used: |
       Technologies_Used: Pytorch, CUDA, Nsight systems
     
   - role: RL/Robotics team Researcher
     time: 2024.06 ~ Present
-    company: AttentionX, Student AI Research Group
+    company: AttentionX, AI Research Group
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      Developing a world-model that simulates environment dynamics for decision-making in long-horizon tasks. 
     technologies_used: |
       Technologies_Used: Isaac Sim, Isaac SDK, Reinforcement Learning
+      
   - role: Major Course Undergraduate TA
     time: 2024.03 ~ Present
     company: College of Engineering, Seoul National University
