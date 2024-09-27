@@ -1,8 +1,8 @@
 title: Resume | Jeongjun Kim
-description:  
-url: 
+description: CV
+url: jeongjun-kim.github.io/jeongjunkim/
 baseurl: ''
-theme_skin: black
+theme_skin: blue
 
 sass:
   sass_dir: _sass
