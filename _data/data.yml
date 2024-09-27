@@ -91,11 +91,11 @@ experience:
   technologies_used: |
     Python, PyTorch, OpenGL
   
- - role: SNU Buddy
-  time: Feb 2023 – June 2023
-  company: 55th Military Police COMPANY, USAG Yongsan-Casey
-  details: |
-    Helped International exchange students with their school life
+  - role: SNU Buddy
+    time: Feb 2023 – June 2023
+    company: 55th Military Police COMPANY, USAG Yongsan-Casey
+    details: |
+      Helped International exchange students with their school life
 
   - role: Military Police / KATUSA (Mandatory Military Service)
   time: May 2021 – November 2022
