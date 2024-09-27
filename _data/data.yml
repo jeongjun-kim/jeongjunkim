@@ -17,7 +17,7 @@ languages:
 
 education:
 
-  - degree: BS in Electrical and             Computer Engineering
+  - degree: BS in Electrical and Computer            Engineering
     time: 2019 - 2025
     university: Seoul National University
 
@@ -42,7 +42,7 @@ profile: |
 experience:
   - role: Undergraduate Research intern
     time: 2024.07 ~ Present
-    company: 3D Vision Lab in Seoul National University / Prof. Young Min Kim
+    company: 3D Vision Lab in Seoul National University \n Advised by Prof. Young Min Kim
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
     technologies_used: |
