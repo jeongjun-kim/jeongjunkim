@@ -103,12 +103,12 @@ projects:
 
 # Scholarships
 scholarships:
-  - title: Medical AI Scholarship
+  - role: Medical AI Scholarship
     time: 2023.03 - Now
     company: Korea Health Industry Development Institute
     details: |
       $2200 per semester, merit-based scholarship for cultivating talented students that encompass both medical and artificial intelligence fields.
-  - title: Merit-based Scholarship
+  - role: Merit-based Scholarship
     time: 2023.03 - Now
     company: Seoul National University
     details: |
@@ -116,7 +116,7 @@ scholarships:
 
 # Certifications
 certifications:
-  - title: Getting Started with Accelerated Computing in CUDA C/C++
+  - role: Getting Started with Accelerated Computing in CUDA C/C++
     time: July 2024
     company: NVIDIA
 
