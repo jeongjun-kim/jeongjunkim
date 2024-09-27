@@ -7,21 +7,11 @@
             <div class="role">
                 {{exp.role}}
             </div>
-                <div class="company">
-                <ul>
-                {% for comp in exp.company %}
-                    <li>{{ comp }}</li>
-                {% endfor %}
-                </ul>
-                <span class="time">{{ exp.time }}</span>
+            <div class="company">
+                {{exp.company}} 
+                <span class="time">{{exp.time}}</span>
             </div> 
-            <div class="details">
-                <ul>
-                {% for detail in exp.details %}
-                    <li>{{ detail }}</li>
-                {% endfor %}
-                </ul>
-            </div>
+            <div class="details">{{exp.details}}</div>
             <p class="technologies">Technologies Used: {{exp.technologies_used}}</p>
         </div>
        
