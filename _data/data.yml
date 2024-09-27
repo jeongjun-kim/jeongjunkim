@@ -81,9 +81,9 @@ experience:
     company: |
       Digital Healthcare Lab, NAVER CLOUD / Advised by Ph.D Haanju Yoo
     details: |
-      Experience in tackling real-world problems in the AI industry by utilizing LLM (HYPERCLOVA X)
-      , Design of scalable Architecture for Action-based Chatbot Agent
-      , NER Model Tuning and Serving PoC for Clinical Documentation using Open-Source sLLM, developing on-premise inference server and MLOps pipeline on Kubernetes
+      Experience in tackling real-world problems in the industry by utilizing LLM(HYPERCLOVA X)<br>
+      Design of scalable Architecture for Action-based Chatbot Agent<br>
+      NER Model Tuning and Serving PoC for Clinical Documentation using Open-Source sLLM, developing on-premise inference server and MLOps pipeline on Kubernetes
     technologies_used: |
       Technologies_Used: LLM, Langchain, RAG, Kubernetes, Docker
 
@@ -91,9 +91,9 @@ experience:
     time: 2023.07 ~ 2023.12
     company: Medical AI Computing Lab in SNU Hospital / Advised by Prof. HyounJoong Kong
     details: |
-      Collaborative Research with Medical Doctor and AI-based research assistance
-      , Data Augmentation via GANs for data-scarce Classes in Breast Implant Classification	
-      , Research on AI Modeling related to Breast Reconstruction with multi-modal medical imaging (collaborated with Plastic Surgeon)
+      Collaborative Research with Medical Doctor and AI-based research assistance<br>
+      Data Augmentation via GANs for data-scarce Classes in Breast Implant Classification<br>
+      Research on AI Modeling related to Breast Reconstruction with multi-modal medical imaging (collaborated with Plastic Surgeon)
     technologies_used: |
       Technologies_Used: Computer Vision, Medical Imaging
   - role: SNU Buddy Member
