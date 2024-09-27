@@ -67,16 +67,16 @@ experience:
     time: 2024.03 ~ Present
     company: College of Engineering, Seoul National University
     details: | 
-      Introduction to Algorithms (ECE430.329)
-      Data-structure and Algorithms(M3500.004500)
-      Recieved Best Tutor award (2024.07)
+      Introduction to Algorithms (ECE430.329)\n
+      Data-structure and Algorithms(M3500.004500)\n
+      Recieved Best Tutor award (2024.07)\n
 
   - role: Applied AI intern 
     time: 2023.12 ~ 2024.03
     company: Digital Healthcare Lab, AI Innovation, NAVER CLOUD (CLOVA) / Ph.D Haanju Yoo
     details: |
-      Experience in tackling real-world problems in the AI industry by utilizing LLM (HYPERCLOVA X).
-      Design of scalable Architecture for Action-based Chatbot Agent utilizing Langchain, Guardrails, RAG, and external API
+      Experience in tackling real-world problems in the AI industry by utilizing LLM (HYPERCLOVA X)\n
+      Design of scalable Architecture for Action-based Chatbot Agent utilizing Langchain, Guardrails, RAG, and external API\n
       NER Model Tuning and Serving PoC for Clinical Documentation using Open-Source sLLM, developing on-premise inference server and MLOps pipeline on Kubernetes
     technologies_used: |
       Python, PyTorch, OpenGL
@@ -132,8 +132,4 @@ certifications:
 volunteering:
   - time: 2019.03 - 2020.12
     role: SNU SENS (Society of Engineering for Volunteering)
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    company: College Of Engineering Seoul National University
