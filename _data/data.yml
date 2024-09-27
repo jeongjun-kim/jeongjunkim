@@ -92,10 +92,8 @@ experience:
   - role: Military Police / KATUSA (Mandatory Military Service)
     time: 2021.05 – 2022.11
     company: 55th Military Police COMPANY, USAG Yongsan-Casey
-    details: |
-      collaborative Research with Medical Doctor and AI-based research assistance
-      Experience of solving real clinical problem
 
+# projects
 projects:
   - title: Cool Project 
     link: #
