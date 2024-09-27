@@ -108,6 +108,7 @@ projects:
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
+
 # Volunteering
 Scholarships:
   - title: Medical AI Scholarship
@@ -120,11 +121,13 @@ Scholarships:
     company: Seoul National University
     details: |
       Scolarship for the academic excellence in 2023 2nd semester, 2024 1st semester
+
 # Certifications
 Certifications:
   - title: Getting Started with Accelerated Computing in CUDA C/C++
     time: July 2024
     company: NVIDIA
+
 # Volunteering
 volunteering:
   - time: 2019.03 - 2020.12
