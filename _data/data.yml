@@ -58,7 +58,7 @@ experience:
     technologies_used: |
       Technologies_Used: Pytorch, CUDA, Nsight systems
     
-  - role: Robotics/ReinforcementLearning Team Member
+  - role: RL/Robotics Team Member
     time: 2024.06 ~ Now
     company: AttentionX, AI Research Group
     details: |
