@@ -41,7 +41,7 @@ profile: |
 # Experience
 experience:
   - role: Undergraduate Research Intern
-    time: 2024.07 ~ Present
+    time: 2024.07 ~ Now
     company: |
       3D Vision Lab in SNU / Advised by Prof. Young Min Kim
     details: |
@@ -50,7 +50,7 @@ experience:
       Technologies_Used: PyTorch, OpenGL, Computer Graphics
   
   - role: Undergraduate Research Intern 
-    time: 2024.07 ~ Present
+    time: 2024.07 ~ Now
     company: |
       System Semiconductor for AI in SNU / Advised by Prof. Namjoon Kim
     details: |
@@ -58,8 +58,8 @@ experience:
     technologies_used: |
       Technologies_Used: Pytorch, CUDA, Nsight systems
     
-  - role: RL/Robotics Team Member
-    time: 2024.06 ~ Present
+  - role: Robotics/ReinforcementLearning Team Member
+    time: 2024.06 ~ Now
     company: AttentionX, AI Research Group
     details: |
       Developing a world-model that simulates environment dynamics for decision-making in long-horizon tasks. 
@@ -114,7 +114,7 @@ projects:
 # Scholarships
 scholarships:
   - role: 3rd Prize (2024 SAMSUNG Computer Engineering Challenge)
-    time: 2024.10
+    time: 2024.07 - 2024.10  
     company: Samsung Advanced Institute of Technology
     details: | 
       Design optimized inference system for the Phi3-medium-4k-instruct LLM on the NVIDIA Jetson AGX Orin 32GB platform.<br>
@@ -133,7 +133,7 @@ scholarships:
 # Certifications
 certifications:
   - role: Getting Started with Accelerated Computing in CUDA C/C++
-    time: July 2024
+    time: 2024.07
     company: NVIDIA
 
 # Volunteering
