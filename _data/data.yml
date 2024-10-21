@@ -109,13 +109,16 @@ experience:
 
 # projects
 projects:
-  - title: LLM Inference Optimization for Edge Devices
-    details: |
-      Design optimized inference system for the Phi3-medium-4k-instruct LLM on the NVIDIA Jetson AGX Orin 32GB platform.<br>
-      Applying hardware-specific optimizations such as CUDA acceleration and Algorithmic optimizations.
 
+      
 # Scholarships
 scholarships:
+  - role: 3rd Prize (2024 SAMSUNG Computer Engineering Challenge)
+    time: 2024.10
+    company: Samsung Advanced Institute of Technology
+    details: | 
+      Design optimized inference system for the Phi3-medium-4k-instruct LLM on the NVIDIA Jetson AGX Orin 32GB platform.<br>
+      Applying hardware-specific optimizations such as CUDA acceleration and Algorithmic optimizations.
   - role: Medical AI Scholarship
     time: 2023.03 - Now
     company: Korea Health Industry Development Institute
