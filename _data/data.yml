@@ -52,9 +52,9 @@ experience:
   - role: Undergraduate Research Intern 
     time: 2024.07 ~ Now
     company: |
-      System Semiconductor for AI in SNU / Advised by Prof. Namjoon Kim
+      System Semiconductor for AI in SNU
     details: |
-      Conducting research on LLM inference optimization technique for limited and unified memory environment (NVIDIA Joint Research Project)
+      Conducting research on LLM inference optimization technique for limited and unified memory environment(NVIDIA Jetson AGX Orin 32GB) (NVIDIA Joint Research Project)
     technologies_used: |
       Technologies_Used: Pytorch, CUDA, Nsight systems
     
