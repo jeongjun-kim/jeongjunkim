@@ -48,6 +48,14 @@ experience:
       Conducting research on Dynamic Neural Radiance Fields (NeRF) for my BS graduation thesis. (CVPR2025 submission as second author)
     technologies_used: |
       Technologies_Used: PyTorch, OpenGL, Computer Graphics
+    
+  - role: RL/Robotics Team Member
+    time: 2024.06 ~ Now
+    company: AttentionX, AI Research Group
+    details: |
+      Developing a world-model that simulates environment dynamics for decision-making in long-horizon tasks. 
+    technologies_used: |
+      Technologies_Used: Isaac Sim, Isaac SDK, Reinforcement Learning
   
   - role: Undergraduate Research Intern 
     time: 2024.07 ~ Now
@@ -57,14 +65,6 @@ experience:
       Conducting research on LLM inference optimization technique for limited and unified memory environment(NVIDIA Jetson AGX Orin 32GB) (NVIDIA Joint Research Project)
     technologies_used: |
       Technologies_Used: Pytorch, CUDA, Nsight systems
-    
-  - role: RL/Robotics Team Member
-    time: 2024.06 ~ Now
-    company: AttentionX, AI Research Group
-    details: |
-      Developing a world-model that simulates environment dynamics for decision-making in long-horizon tasks. 
-    technologies_used: |
-      Technologies_Used: Isaac Sim, Isaac SDK, Reinforcement Learning
       
   - role: Major Course Undergraduate TA
     time: 2024.03 ~ 2024.08
