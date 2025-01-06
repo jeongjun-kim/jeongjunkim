@@ -44,9 +44,18 @@ experience:
     time: 2024.12 ~ Now
     company: |
       CLVR Lab in KAIST / Advised by Prof. Joseph J. Lim
+
+
+    - role: Vice president & RL/Robotics Team Member
+    time: 2024.06 ~ Now
+    company: AttentionX, AI Research Group
+    details: |
+      Developing a world-model that simulates environment dynamics for decision-making in long-horizon tasks. 
+    technologies_used: |
+      Technologies_Used: Isaac Sim, Isaac SDK, Reinforcement Learning
       
   - role: Undergraduate Research Intern
-    time: 2024.07 ~ Now
+    time: 2024.07 ~ 2024.12
     company: |
       3D Vision Lab in SNU / Advised by Prof. Young Min Kim
     details: |
@@ -54,13 +63,7 @@ experience:
     technologies_used: |
       Technologies_Used: PyTorch, OpenGL, Computer Graphics
     
-  - role: RL/Robotics Team Member
-    time: 2024.06 ~ Now
-    company: AttentionX, AI Research Group
-    details: |
-      Developing a world-model that simulates environment dynamics for decision-making in long-horizon tasks. 
-    technologies_used: |
-      Technologies_Used: Isaac Sim, Isaac SDK, Reinforcement Learning
+
   
   - role: Undergraduate Research Intern 
     time: 2024.07 ~ 2025.01
