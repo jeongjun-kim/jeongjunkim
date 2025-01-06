@@ -43,7 +43,7 @@ experience:
   - role: Undergraduate Research Intern
     time: 2024.12 ~ Now
     company: |
-      CLVR Lab in KAIST / Advised by Prof. Joseph J. Lim]
+      CLVR Lab in KAIST / Advised by Prof. Joseph J. Lim
       
   - role: Undergraduate Research Intern
     time: 2024.07 ~ Now
@@ -63,11 +63,12 @@ experience:
       Technologies_Used: Isaac Sim, Isaac SDK, Reinforcement Learning
   
   - role: Undergraduate Research Intern 
-    time: 2024.07 ~ Now
+    time: 2024.07 ~ 2025.01
     company: |
       System Semiconductor for AI in SNU
     details: |
-      Conducting research on LLM inference optimization technique for limited and unified memory environment(NVIDIA Jetson AGX Orin 32GB) (NVIDIA Joint Research Project)
+      Conducting research on LLM inference optimization technique for limited and unified memory environment(NVIDIA Jetson AGX Orin 32GB) (NVIDIA Joint Research Project) <br>
+      Accepted for NVIDIA GTC 2025 Poster Session, San Jose, CA
     technologies_used: |
       Technologies_Used: Pytorch, CUDA, Nsight systems
       
