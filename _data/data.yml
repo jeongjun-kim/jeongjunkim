@@ -123,7 +123,9 @@ projects:
       
 # publications
 publications:
-  - title: "Humans as a Calibration Pattern:" <br> "Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos"
+  - title: >
+      "Humans as a Calibration Pattern:" <br>
+      "Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos"
     link: "https://changwoonchoi.github.io/HCP/"
     authors: Changwoon Choi, Jeongjun Kim, Geonho Cha, Minkwan Kim, Dongyoon Wee, and Young Min Kim
     conference: Arxiv preprint, CVPR2025 Submission
