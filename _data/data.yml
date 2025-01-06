@@ -41,11 +41,16 @@ profile: |
 # Experience
 experience:
   - role: Undergraduate Research Intern
+    time: 2024.12 ~ Now
+    company: |
+      CLVR Lab in KAIST / Advised by Prof. Joseph J. Lim]
+      
+  - role: Undergraduate Research Intern
     time: 2024.07 ~ Now
     company: |
       3D Vision Lab in SNU / Advised by Prof. Young Min Kim
     details: |
-      Conducting research on Dynamic Neural Radiance Fields (NeRF) for my BS graduation thesis. (CVPR2025 submission as second author)
+      Conducting research on Dynamic Neural Radiance Fields (NeRF) for my BS graduation thesis. (CVPR2025 submission)
     technologies_used: |
       Technologies_Used: PyTorch, OpenGL, Computer Graphics
     
