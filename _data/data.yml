@@ -36,7 +36,7 @@ skills:
 
 # Profile
 profile: |
-  Research Interests : Design of hardware-friendly algorithms and AI workloads, Visual Perception and World Understanding in Robotics
+  Research Interests : Design of hardware-friendly algorithms and AI workloads, Scalable and efficient simulation and World Understanding in Robotics
 
 # Experience
 experience:
@@ -44,7 +44,6 @@ experience:
     time: 2024.12 ~ Now
     company: |
       CLVR Lab in KAIST / Advised by Prof. Joseph J. Lim
-
 
   - role: Vice president & RL/Robotics Team Member
     time: 2024.06 ~ Now
@@ -62,8 +61,6 @@ experience:
       Conducting research on Dynamic Neural Radiance Fields (NeRF) for my BS graduation thesis. (CVPR2025 submission)
     technologies_used: |
       Technologies_Used: PyTorch, OpenGL, Computer Graphics
-    
-
   
   # - role: Undergraduate Research Intern 
   #   time: 2024.07 ~ 2025.01
