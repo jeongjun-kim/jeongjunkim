@@ -115,7 +115,7 @@ experience:
 
 # projects
 projects:
-  - title: High Throughput LLM serving on Edge Device (NVIDIA Jetson AGX Orin 32GB)
+  - title: High Throughput LLM serving on Edge Device (NVIDIA Jetson AGX Orin 32GB, 64GB)
     link: "https://drive.google.com/file/d/1NNYAwTv5V2hDmJpI1dddQ3OGDA3px_jE/view?usp=sharing"
     details: |
       Conducting research on LLM inference optimization technique for limited and unified memory environment(NVIDIA Jetson AGX Orin 32GB) (NVIDIA Joint Research Project) <br>
@@ -123,7 +123,7 @@ projects:
       
 # publications
 publications:
-  - title: Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos
+  - title: "Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos"
     link: "https://changwoonchoi.github.io/HCP/"
     authors: Changwoon Choi, Jeongjun Kim, Geonho Cha, Minkwan Kim, Dongyoon Wee, and Young Min Kim
     conference: Arxiv preprint, CVPR2025 Submission
