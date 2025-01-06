@@ -57,7 +57,7 @@ experience:
     company: |
       3D Vision Lab in SNU / Advised by Prof. Young Min Kim
     details: |
-      Conducting research on Dynamic Neural Radiance Fields (NeRF) for my BS graduation thesis. (CVPR2025 submission)
+      Conducting research on Dynamic Neural Radiance Fields (NeRF) for my BS graduation thesis.
     technologies_used: |
       Technologies_Used: PyTorch, OpenGL, Computer Graphics
   
