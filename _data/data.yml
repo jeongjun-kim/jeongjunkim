@@ -36,7 +36,7 @@ skills:
 
 # Profile
 profile: |
-  Research Interests : Design of hardware-friendly algorithms and AI workloads, Scalable and efficient simulation and World Understanding in Robotics
+  Research Interests : Scalable simulations enabling effective world interaction in Robot learning, and design of hardware-friendly algorithms and AI workloads.
 
 # Experience
 experience:
@@ -115,15 +115,15 @@ experience:
 
 # projects
 projects:
-  - title: High Throughput LLM serving on Edge Device (NVIDIA Jetson AGX Orin 32GB, 64GB)
+  - title: High Throughput LLM serving on Edge Device
     link: "https://drive.google.com/file/d/1NNYAwTv5V2hDmJpI1dddQ3OGDA3px_jE/view?usp=sharing"
     details: |
-      Conducting research on LLM inference optimization technique for limited and unified memory environment(NVIDIA Jetson AGX Orin 32GB) (NVIDIA Joint Research Project) <br>
+      Research on LLM inference optimization technique for limited and unified memory environment, NVIDIA Jetson AGX Orin 32GB. (NVIDIA Joint Research Project) <br>
       Accepted for NVIDIA GTC 2025 Poster Session, San Jose, CA
       
 # publications
 publications:
-  - title: "Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos"
+  - title: "Humans as a Calibration Pattern:" <br> "Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos"
     link: "https://changwoonchoi.github.io/HCP/"
     authors: Changwoon Choi, Jeongjun Kim, Geonho Cha, Minkwan Kim, Dongyoon Wee, and Young Min Kim
     conference: Arxiv preprint, CVPR2025 Submission
